@@ -45,7 +45,7 @@ The two graphs below show some data plotted on linear-linear and semi-log axes, 
 
 #### Assumptions
 
-15. Were there any quantities or effects in this experiment that you decided were negligible? For each of these, what would be the impact on your experimental results if these quantities weren't negligible?
+15. Were there any quantities or effects in this experiment that you decided were negligible? For each of these, what would be the impact on your experimental results if those quantities weren't negligible?
 16. Which quantities have you assumed are constant but might actually vary as you take your measurements?
 
 #### Uncertainties
