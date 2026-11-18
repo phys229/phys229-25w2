@@ -2,7 +2,7 @@
 
 ## 2025 W2
 
-Scored out of 8.
+A letter-grade-framed rubric used in a traditional cumulative points grading system.
 
 | Grade | Summary | Reassessment |
 |---|---|---|
